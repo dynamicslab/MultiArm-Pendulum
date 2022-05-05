@@ -1,0 +1,2 @@
+# The-Experimental-Multi-Arm-Pendulum-on-a-Cart
+This repository is for our paper: "The Experimental Multi-Arm Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control." It contains all the CAD files we used to build the pendulum hardware and their corresponding user's manual, if there's any. Moreover, we also include the data we collected from our hardware, which is useful for Machine Learning and AI community.
