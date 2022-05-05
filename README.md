@@ -2,7 +2,7 @@
 
 This repository is for our paper: "*[The Experimental Multi-Arm Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control.]()*" The following figure shows an overview of experimental system.
 
-![](Images/OverviewSys.pdf)
+![](Images/OverviewSys.png)
 
 This repository contains the following files:
 - All the CAD files needed to build the pendulum hardware.
