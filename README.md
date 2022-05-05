@@ -11,9 +11,7 @@ This repository contains the following files:
 - A demo file for setting up the hardware system and using it for data collection.
 - Demo files for parameter estimation of the pendulum arm.
 
-If you find our data set or hardware useful for your research, please kindly cite it as: 
-
-(Leave empty for now, will update after all the files are uploaded)
+If you find our data set or hardware useful for your research, please kindly cite it as: (Leave empty for now, will update after all the files are uploaded)
 
 
 
