@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"AutomationDirect";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-17012020-000143";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Hammond enclosure, NEMA 1, 24 x 24 x 10in (HxWxD), wall mount, with knockouts, carbon steel, ANSI 61 gray, powder coat finish, screw cover.";"";
+"TraceParts.InstanceId";"90-17012020-00014378P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartTitle";"Hammond enclosure, NEMA 1, 24 x 24 x 10in (HxWxD), wall mount, with knockouts, carbon steel, ANSI 61 gray, powder coat finish, screw cover.";"";
+"TraceParts.PartStatusId";"";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Part_Number_EShop_URL";"http://www.adcpn.com/pn/CSKO242410";"";
+"TraceParts.ClassPath";"/F_AUTOMATION_DIRECT/AD.109/AD.109.1195265/AD.109.1195265.04111902/";"";
+"SUPPLIER_PART_NUMBER";"CSKO242410";"";
