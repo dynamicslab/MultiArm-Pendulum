@@ -1,1 +1,1 @@
-
+# The author does not claim copyrights on the documentation/user manual shown in this folder. All right belongs to the manufacturer who wrote this documentation. Those files are downloaded from the product's website.
