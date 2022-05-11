@@ -34,8 +34,8 @@ function l2normError=ObjectiveFuntion_DoublePendulumParameterEstimation(Estimati
 % Date: 03/Oct/2021
 %
 
-%% Determine the number of optimization parameter, if it is 4, then set the g=9.81 as defaults
-if length(EstimationParameters)==4
+%% Determine the number of optimization parameter, if it is 9, then set the g=9.81 as defaults
+if length(EstimationParameters)==9
     g=9.8083;
 end
 
