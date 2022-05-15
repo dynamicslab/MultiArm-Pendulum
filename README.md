@@ -1,5 +1,6 @@
 # The Experimental Multi-Arm Pendulum on a Cart
 
+## Overview:
 This repository is for our paper: "*[The Experimental Multi-Arm Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control.](https://arxiv.org/abs/2205.06231)*" The following figure shows an overview of the experimental system.
 
 ![](Images/OverviewSys.png)
@@ -11,6 +12,7 @@ This repository contains the following files:
 - A demo file for setting up the hardware system and using it for data collection.
 - Demo files for parameter estimation of the **single, double, and triple pendulum**.
 
+## Cite:
 If you find our data set or hardware useful for your research, please kindly cite it as: 
 
 @misc{kaheman2022experimental,
