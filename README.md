@@ -8,7 +8,7 @@ This repository is for our paper: "*[The Experimental Multi-Arm Pendulum on a Ca
 This repository contains the following files:
 - All the CAD files needed to build the pendulum hardware.
 - Link to the user's manuals that correspond to some of the parts we used.
-- The experimental data sets of the **single, double, and triple pendulum** with and without external excitation. We believe this data set will be extremely useful for the Machine Learning and AI community to test their modeling algorithm. The slow-motion video data for the double pendulum can be accessed using this [Link](https://drive.google.com/drive/folders/18hswoKMX7XHbXlS6c8SvPlhCQRHZldHe?usp=sharing).
+- The experimental data sets of the **single, double, and triple pendulum** with and without external excitation. We believe this data set will be extremely useful for the Machine Learning and AI community to test their modeling algorithm. The slow-motion video data for the double pendulum can be accessed using this **[Link](http://doi.org/10.5281/zenodo.6633719)**.
 - A demo file for setting up the hardware system and using it for data collection.
 - Demo files for parameter estimation of the **single, double, and triple pendulum**.
 
